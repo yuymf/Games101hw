@@ -1,6 +1,7 @@
 # Docs
 *build/
 *.vscode/
+.vs/
 *__MACOSX/
 
 # Files
